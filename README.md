@@ -1,2 +1,2 @@
-# Pr-tica-02---Ppersist-ncia-de-Dados
-Prática 02 - Ppersistência de Dados
+# Pratica-02-Persistencia-de-Dados
+Prática 02 - Persistência de Dados
